@@ -1,0 +1,71 @@
+{
+  "app_id": "ordering-react",
+  "app_name": "Chatco",
+  "project": "myfoodv4",
+  "api": {
+    "url": "https://apiv4.ordering.co",
+    "language": "en",
+    "version": "v400",
+    "key": "abc",
+    "apiKey": "abc"
+  },
+  "socket": {
+    "url": "https://socket.ordering.co"
+  },
+  "ordering_customer": {
+    "id": 10,
+    "name": "HR",
+    "lastname": null,
+    "email": "hr@ibaysys.com",
+    "login_type": 0,
+    "social_id": null,
+    "photo": null,
+    "birthdate": null,
+    "phone": "+92",
+    "cellphone": "3093927454",
+    "city_id": 1,
+    "dropdown_option_id": null,
+    "address": "",
+    "address_notes": null,
+    "zipcode": null,
+    "location": null,
+    "level": 3,
+    "language_id": 1,
+    "push_notifications": true,
+    "busy": false,
+    "available": true,
+    "enabled": true,
+    "created_at": "2020-05-22 19:18:35",
+    "updated_at": "2022-04-28 06:06:37",
+    "deleted_at": null,
+    "internal_number": null,
+    "map_data": null,
+    "middle_name": null,
+    "second_lastname": null,
+    "country_phone_code": "1",
+    "priority": 0,
+    "last_order_assigned_at": null,
+    "last_location_at": null,
+    "phone_verified": false,
+    "email_verified": false,
+    "driver_zone_restriction": false,
+    "pin": null,
+    "business_id": null,
+    "franchise_id": null,
+    "register_site_id": null,
+    "ideal_orders": null,
+    "external_id": null,
+    "settings": null,
+    "loyalty_level_id": null,
+    "loyalty_level_points": 0,
+    "dropdown_option": null,
+    "session": {
+      "access_token": "abc",
+      "token_type": "bearer",
+      "expires_in": 31536000
+    }
+  },
+  "shopback_aff":{
+    "url": "http://localhost:3010/shopback-order-track"
+  }
+}

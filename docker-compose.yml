@@ -1,0 +1,19 @@
+version: '3.5'
+services:
+  template1:
+    image: template1_dev
+    build:
+      context: ./
+      dockerfile: ./docker/web.Dockerfile
+    volumes:
+      - ./dist:/var/www/web
+    expose:
+      - 80
+    ports:
+      - 8081:80
+    networks:
+      - ordering_shared
+networks:
+  ordering_shared: 
+    external:
+      name: ordering_shared

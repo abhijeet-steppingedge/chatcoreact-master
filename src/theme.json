@@ -1,0 +1,126 @@
+{
+  "fonts": {
+    "primary": {
+      "name": "Poppins",
+      "weights": [300, 400, 500, 600]
+    },
+    "special": {
+      "name": "Lobster",
+      "weights": [400]
+    }
+  },
+  "colors": {
+    "primary": "#f66328",
+    "primaryContrast": "#FFF",
+    "secundary": "#065143",
+    "secundaryContrast": "#000",
+    "disabled": "#CBCBCB",
+    "disabledContrast": "#000",
+    "backgroundPage": "#FFFFFF",
+    "colorPage": "#333",
+    "red": "#D83520",
+    "skyBlue": "#1977F2",
+    "white": "#fff",
+    "whiteGray": "#F7F6F3",
+    "dusk": "#414d6b",
+    "green": "#0CAD63",
+    "mediumGray": "#869ab7",
+    "paleGray": "#FAFAFA",
+    "lightGray": "#D2D2D2",
+    "backgroundLight": "#FFFFFF",
+    "backgroundDark": "#484848",
+    "backgroundGray": "#CCCCCC",
+    "clear": "transparent",
+    "error": "#C90800",
+    "success": "#44CF8E",
+    "btnFont": "#000000",
+    "inputDisabled": "#F7F7F7",
+    "textSecondary": "#858585",
+    "editColor": "#F2BB40",
+    "cancelColor": "#D81212",
+    "black": "#000000",
+    "colorTextTutorial": "#000000",
+    "toastSuccess":"#44cf8e",
+    "toastError":"#D83520",
+    "toastInfo":"#6BA4FF"
+  },
+  "images": {
+    "logos": {
+      "logotype": "",
+      "logotypeInvert": ""
+    },
+    "tutorials":{
+      "slide1": "",
+      "slide2": "",
+      "slide3": "",
+      "slide4": "",
+      "slide5": "",
+      "slide6": ""
+    },
+    "general": {
+      "loadingSplash": "",
+      "homeHero": "",
+      "notFound": "",
+      "emptyActiveOrders": "",
+      "emptyPastOrders": "",
+      "menu": "",
+      "lunch": "",
+      "arrow_up": "",
+      "arrow_left": "",
+      "map": "",
+      "marker": "",
+      "email": "",
+      "lock": "",
+      "camera": "",
+      "support": "",
+      "trash": "",
+      "phone": "",
+      "mail": "",
+      "chat": "",
+      "user": "",
+      "menulogout": "",
+      "cash": "",
+      "carddelivery": "",
+      "paypal": "",
+      "stripe": "",
+      "stripecc": "",
+      "stripes": "",
+      "stripesb": "",
+      "creditCard": "",
+      "help": ""
+    },
+    "order": {
+      "status0": "",
+      "status1": "",
+      "status2": "",
+      "status3": "",
+      "status4": "",
+      "status5": "",
+      "status6": "",
+      "status7": "",
+      "status8": "",
+      "status9": "",
+      "status10": "",
+      "status11": "",
+      "status12": "",
+      "status13": "",
+      "status14": "",
+      "status15": "",
+      "status16": "",
+      "status17": "",
+      "status18": "",
+      "status19": "",
+      "status20": "",
+      "status21": ""
+    },
+    "categories": {
+      "all": ""
+    },
+    "dummies": {
+      "product": "",
+      "businessLogo": "",
+      "driverPhoto": "",
+      "customerPhoto": ""
+    }
+  }
+}
